@@ -1,4 +1,4 @@
 # One-Chat
-Issues, requests, changelogs - here.
+issue/feature request tracker - here.
 
 https://www.gmodstore.com/market/view/one-chat-the-first-chatbox-you-ll-ever-need
